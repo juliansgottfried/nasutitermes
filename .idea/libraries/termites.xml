@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="termites">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/executable/termites.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
