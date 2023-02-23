@@ -1,0 +1,8 @@
+Analyze.java <- Sim.java, Out.java, StdOut.java, StdRandom.java
+Sim.java <- SpineTree.java, ResizingArray.java, Termites.java, In.java, StdDraw.java, StdOut.java, Spine.java, KDTree.java
+SpineTree.java <- Spine.java, MinPQ.java, ResizingArray.java, StdDraw.java
+Termites.java <- Spine.java, StdRandom.java
+ResizingArray.java <- Spine.java, StdRandom.java
+Build.java <- StdDraw.java, Out.java
+BuildRandom.java <- StdRandom.java, Out.java
+Spine.java
